@@ -1,0 +1,40 @@
+h2 {
+    font-variant:small-caps;
+    color:rgb(54, 82, 94);
+  }
+
+  h1 {
+    font-variant:small-caps;
+    font-size: 60px;
+    color:rgb(54, 82, 94);
+  }
+
+  #divtitle {
+    background-color: rgba(35, 52, 59, 0.247);
+  }
+
+  body {
+    background-image: url(Capture.PNG);
+    background-repeat: no-repeat;
+
+    background-size: cover;
+  }
+
+  #player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.login_div1 , .login_div2
+{
+  background-color: rgba(26, 41, 47, 0.486);
+  padding: 10px;
+  float: none;
+  border-radius: 15px;
+}
+
+#loginbutton {
+  background-color: rgb(60, 88, 99);
+  border-radius: 10px;
+}
